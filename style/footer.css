@@ -1,0 +1,20 @@
+.footer-nav{
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+}
+.footer-logo--img{
+    width: 100px;
+}
+.footer-nav--primary{
+    margin-left: 10px;
+    color: white;
+}
+.footer-nav__about--us{
+    margin-left: 10px;
+    color: white;
+}
+.footer-nav--contact{
+    margin-left: 10px;
+    color: white;
+}

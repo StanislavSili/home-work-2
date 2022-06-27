@@ -1,0 +1,89 @@
+/* Основный стили сайта */
+
+.nav {
+    margin: 20px;
+    padding: 10px;
+    background-color: black;
+}
+.nav-primary{
+    margin-right: 10px;
+    color: white;
+}
+.nav-about-us{
+    margin-right: 10px;
+    color: white;
+}
+.nav-contact{
+    margin-right: 10px;
+    color: white;
+}
+.section-one{
+    margin: 20px;
+ 
+}
+.section-one--ul{
+    margin: 20px;
+}
+.section-two{
+    margin: 20px;
+    
+}
+.section-two__block{
+    font-family: 'Staatliches', cursive;
+    font-size: 1rem;
+    box-sizing: border-box;
+    border: solid rgb(129, 131, 129);
+    overflow: scroll;
+    height: 200px;
+    margin: 2px;
+    border-radius: 5px;
+    padding: 5px;
+    width: 50%
+}
+.section-img{
+    width: 150px;
+}
+.section-two__block2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    box-sizing: border-box;
+    border: double green;
+    background: rgb(166, 214, 210);
+    overflow: scroll;
+    height: 200px;
+    margin: 2px;
+    border-radius: 5px;
+    padding: 7px;
+    width: 50%
+}
+.section-img_2{
+    width: 150px;
+}
+.section-two__block3{
+    font-family: 'Tiro Bangla';
+    font-size: 2rem;
+    box-sizing: border-box;
+    border: solid rgb(128, 68, 0);
+    background: rgb(146, 230, 146);
+    overflow: scroll;
+    height: 200px; 
+    margin: 2px;
+    border-radius: 5px;
+    padding: 7px;
+    width: 50%
+}
+.section-img_3{
+    width: 150px;
+}
+.section-three{
+    margin: 20px;
+}
+.section-three__img__one{
+    width: 350px;
+    margin: 20px;
+}
+.section-three__img--two{
+    width: 400px;
+    height: 297px;
+    margin: 20px;
+}

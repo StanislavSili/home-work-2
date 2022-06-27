@@ -1,0 +1,30 @@
+/* Стили раздела contact */
+
+.nav-logo--img{
+    width: 80px;
+}
+.contact{
+    margin: 20px;
+}
+.contact-soc{
+    margin: 20px;
+    margin-bottom: 5rem;
+    
+}
+.contact-soc--telegram{
+    margin: 10px;
+    float:left
+}
+.contact-soc--Instagram{
+    margin: 10px;
+    float:left
+}
+.contact-soc--Linkedin{
+    width: 30px;
+    margin: 10px;
+    float:left
+}
+.contact-soc--phones{
+    width: 33px;
+    margin: 10px;
+}
